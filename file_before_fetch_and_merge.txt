@@ -1,0 +1,1 @@
+This file is created before we ran the command fetch and merge
