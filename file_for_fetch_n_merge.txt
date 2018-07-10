@@ -1,0 +1,4 @@
+This file need to be downloaded in two steps
+a.  Fetch ( It will downlad the file in the "remote" area.
+b. Merge ( It will merge file from remote/branch to local/branch
+
